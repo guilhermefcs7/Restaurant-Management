@@ -1,6 +1,8 @@
 # Restaurant-Management
 Complete restaurant management software
 
+# Description
+
 Our restaurant management software is a comprehensive solution designed to streamline operations and enhance efficiency in the food service industry. With a user-friendly interface, it empowers waitstaff to easily 
 open customer tables and register their orders, while kitchen staff can seamlessly track and fulfill these orders through the web-based system.
 
