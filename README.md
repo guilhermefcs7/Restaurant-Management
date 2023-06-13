@@ -24,3 +24,7 @@ Moreover, our software extends its functionality to mobile devices, with a dedic
 # Initialize Api
 - `cd backend`
 - `yarn run dev`
+
+# Initialize Front-end
+- `cd frontend`
+- `yarn run dev`
