@@ -21,7 +21,8 @@ Moreover, our software extends its functionality to mobile devices, with a dedic
 
 # Mobile
 
-🚧 Mobile under development... 🚧
+- `cd mobile`
+- `expo start`
 
 # Web
 
