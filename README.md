@@ -18,9 +18,20 @@ Front-End Development with React.js and React Native:
 The front-end of our software is developed using React.js, a popular JavaScript library renowned for its versatility and performance. This ensures a seamless and responsive user interface on web-based platforms. 
 Moreover, our software extends its functionality to mobile devices, with a dedicated React Native framework, enabling users to access and manage restaurant operations on the go.
 
+
+# Mobile
+
+🚧 Mobile under development... 🚧
+
+# Web
+
 ### Getting started
 - `git clone https://github.com/guilhermefcs7/Restaurant-Management.git`
 
 # Initialize Api
 - `cd backend`
+- `yarn run dev`
+
+# Initialize Front-end
+- `cd frontend`
 - `yarn run dev`
