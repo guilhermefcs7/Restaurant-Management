@@ -19,15 +19,13 @@ The front-end of our software is developed using React.js, a popular JavaScript 
 Moreover, our software extends its functionality to mobile devices, with a dedicated React Native framework, enabling users to access and manage restaurant operations on the go.
 
 
+### Getting started
+- `git clone https://github.com/guilhermefcs7/Restaurant-Management.git`
+
 # Mobile
 
 - `cd mobile`
 - `expo start`
-
-# Web
-
-### Getting started
-- `git clone https://github.com/guilhermefcs7/Restaurant-Management.git`
 
 # Initialize Api
 - `cd backend`
